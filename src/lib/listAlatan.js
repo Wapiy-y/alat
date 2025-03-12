@@ -47,5 +47,35 @@ export const listAlatan = [
         name: "icon svg",
         url: "https://iconsvg.xyz/",
         tag: "svg"
+    },
+    {
+        id: 9,
+        name: "flow",
+        url: "https://flow.zafranudin.my/",
+        tag: "doc"
+    },
+    {
+        id: 10,
+        name: "How to design clean dashboards",
+        url: "https://x.com/daltonuiux/status/1899507459791683603",
+        tag: "ui"
+    },
+    {
+        id: 11,
+        name: "owl",
+        url: "https://github.com/camel-ai/owl?tab=readme-ov-file",
+        tag: "llm"
+    },
+    {
+        id: 12,
+        name: "Daisy Ui",
+        url: "https://daisyui.com/",
+        tag: "ui"
+    },
+    {
+        id: 13,
+        name: "cursify",
+        url: "https://cursify.vercel.app/",
+        tag: "ui"
     }
 ];
